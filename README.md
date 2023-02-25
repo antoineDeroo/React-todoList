@@ -2,7 +2,7 @@
 
 Installer npm.
 
-Dependances de npm à installer \:
+Dependances de npm à installer  \:
 
 - react
 - react-dom
