@@ -1,6 +1,8 @@
 # Configuration
 
-Dependances à installer \:
+Installer npm.
+
+Dependances de npm à installer \:
 
 - react
 - react-dom
